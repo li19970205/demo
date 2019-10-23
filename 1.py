@@ -1,3 +1,3 @@
 print("hello")
 print("a+b")
-print("new day")
+print("modicy in  moster")
